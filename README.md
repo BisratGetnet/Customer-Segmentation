@@ -4,7 +4,7 @@
 This project focuses on grouping mall customers into meaningful segments based on their **annual income** and **spending score**.  
 
 **Key Steps:**
-- Use the **Mall Customer Dataset** [Use the **Mall Customer Dataset** (Kaggle)](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)
+- Use the **Mall Customer Dataset** [Use the **Mall Customer Dataset** (Kaggle)](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 - Scale and explore the dataset visually
 - Apply **K-Means clustering** and determine the **optimal number of clusters**
 - Visualize clusters using **2D scatter plots**
